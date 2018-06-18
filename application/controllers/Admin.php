@@ -126,7 +126,7 @@ class Admin extends CI_Controller {
 		if($action == 'create'){
 			$data = $this->input->post();
 			$this->db->insert('news', $data);
-			
+		
 		}
 	}
 	
