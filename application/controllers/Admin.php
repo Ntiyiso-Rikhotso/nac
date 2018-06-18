@@ -16,6 +16,8 @@ class Admin extends CI_Controller {
 		$this->page_data->page_title = 'Dashboard';
 		$this->page_data->page_name = 'dashboard/dashboard';
 		$this->load->view($this->views . '/index', $this->page_data);
+
+		
 	}
 	
 	function create_item(){
@@ -118,6 +120,13 @@ class Admin extends CI_Controller {
 		$this->db->where('manufacture_id', $manufacture_id);
 		$this->page_data->models = $this->model->all();
 		$this->load->view($this->views . '/sales/get_models', $this->page_data);
+	}
+
+	function news($action = 'list'){
+		if($action == 'create'){
+			$data = $this->input->post();
+			$this->db->insert('news', $data);
+		}
 	}
 	
 	

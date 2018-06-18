@@ -1,6 +1,6 @@
 
 <!--top content-slider-->
-<div style="margin-top: 0px; margin-bottom: 0px; height: 630px;">
+<div style="margin-top: 0px; margin-bottom: 0px; height: 650px;">
 <div class="rev_slider_wrapper" style="margin-top: 0px; margin-bottom: 0px; height: 500px;"> 
       <!-- START REVOLUTION SLIDER 5.0 auto mode -->
      <div id="rev_slider" class="rev_slider"  data-version="5.0" style="margin-top: 0px; margin-bottom: 0px; height: 500px;">

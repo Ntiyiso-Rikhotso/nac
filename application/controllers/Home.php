@@ -75,7 +75,7 @@ class Home extends CI_Controller {
         $this->load->view($this->view . '/index', $this->page_data);
     }
 	function aircraft_wanted() {
-        $this->output->cache(5);
+       // $this->output->cache(5);
         $this->page_data->page_title = ucwords(str_replace('_', ' ', __function__));
         $this->page_data->page_name = $this->_content . __function__;
         $this->load->view($this->view . '/index', $this->page_data);
