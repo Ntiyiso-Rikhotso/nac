@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://NAC_Tester.co.za/index.html</loc>
+    <lastmod>2018-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-8.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-7.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-6.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-3.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-5.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-11.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-10.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-12.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NAC_Tester.co.za/images/artwork-9.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
