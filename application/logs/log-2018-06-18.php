@@ -344,3 +344,11 @@ ERROR - 2018-06-18 10:41:52 --> 404 Page Not Found: Home/images
 ERROR - 2018-06-18 10:41:53 --> 404 Page Not Found: Home/images
 ERROR - 2018-06-18 10:41:54 --> 404 Page Not Found: Assets/frontend
 ERROR - 2018-06-18 10:41:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2018-06-18 10:42:45 --> 404 Page Not Found: Home/images
+ERROR - 2018-06-18 10:42:46 --> 404 Page Not Found: Home/images
+ERROR - 2018-06-18 10:42:47 --> 404 Page Not Found: Assets/frontend
+ERROR - 2018-06-18 10:42:48 --> 404 Page Not Found: Assets/frontend
+ERROR - 2018-06-18 10:43:37 --> 404 Page Not Found: Home/images
+ERROR - 2018-06-18 10:43:39 --> 404 Page Not Found: Home/images
+ERROR - 2018-06-18 10:43:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2018-06-18 10:43:41 --> 404 Page Not Found: Assets/frontend

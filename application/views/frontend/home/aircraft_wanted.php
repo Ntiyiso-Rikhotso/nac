@@ -363,10 +363,9 @@
 									<label for="form2email" class="col-sm-4">&nbsp;</label>
 									<div class="col-sm-8">
 									
-									<input type="submit" value="Reset" class="btn btn-prim  btn-medium uppercase btn-block">
+									<input type="submit" value="Reset" class="col-sm-4"  class="btn btn-prim  btn-medium uppercase btn-block">
 									
-									
-									<input type="submit" value="Send Message" class="btn talk-to-us btn btn-prim  btn-medium uppercase btn-block">
+									<input type="submit" value="Send Message" class="col-sm-4" class="btn talk-to-us btn btn-prim  btn-medium uppercase btn-block">
 									
 									</div>
 							
